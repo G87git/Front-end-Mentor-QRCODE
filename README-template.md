@@ -4,8 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
+- [Overview] This is my first Front-end Mentor chanllenge
+- ![](../screenshot/Web%20capture_10-1-2023_172640_127.0.0.1.jpeg)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -96,8 +96,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
