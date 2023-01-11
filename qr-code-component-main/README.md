@@ -6,8 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview] This is my first Front-end Mentor chanllenge. Here is what i did  👇
   - ![](../screenshot/Web%20capture_10-1-2023_172640_127.0.0.1.jpeg)
-
-- Solution URL: [Add solution URL here]
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-xAr7ytpDj0]
 - Live Site URL: [https://qrcodechallengebyg87code.netlify.app/]
 - [My process](#my-process)
   - Built with
@@ -21,4 +20,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Website - [NZANGMENE DIT DIBRIL HASSAN](https://g87code.my.canva.site)
 - Frontend Mentor - [NZANGMENE HASSAN](https://www.frontendmentor.io/profile/G87git)
 - Twitter - [@G87code](https://www.twitter.com/g87code)
-- [Acknowledgments](#acknowledgments)
