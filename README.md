@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview] This is my first Front-end Mentor chanllenge. Here is what i did  👇
-  - ![](../screenshot/Web%20capture_10-1-2023_172640_127.0.0.1.jpeg)
+  - ![](../qr-code-component-main/screenshot/Web%20capture_10-1-2023_172640_127.0.0.1.jpeg)
 
 - Solution URL: [Add solution URL here]
 - Live Site URL: [https://qrcodechallengebyg87code.netlify.app/]
