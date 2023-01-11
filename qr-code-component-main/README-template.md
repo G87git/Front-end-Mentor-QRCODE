@@ -4,15 +4,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview] This is my first Front-end Mentor chanllenge
-- ![](../screenshot/Web%20capture_10-1-2023_172640_127.0.0.1.jpeg)
-  - [Links](#links)
+- [Overview] This is my first Front-end Mentor chanllenge. Here is what i did  👇
+  - ![](../screenshot/Web%20capture_10-1-2023_172640_127.0.0.1.jpeg)
+  - [Links](https://qrcodechallengebyg87code.netlify.app/)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [Built with](
+      - Semantic HTML5 markup
+      - CSS custom properties
+      - [TailwindCss](https://tailwindcss.com/) - CSS Framework)
+  - [What I learned](-to)
+  - [Continued development](We look forward to learn and practice more of JAVASCRIPT in order to get started with       
+    frameworks like ReactJS and to ameliorate our Front-end skills)
+- [Author](
+- Website - [NZANGMENE DIT DIBRIL HASSAN](https://g87code.my.canva.site)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/)
+- Twitter - [@yourusername](https://www.twitter.com/))
 - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
