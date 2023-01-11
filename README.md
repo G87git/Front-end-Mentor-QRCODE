@@ -6,8 +6,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview] This is my first Front-end Mentor chanllenge. Here is what i did  👇
   - ![](../screenshot/Web%20capture_10-1-2023_172640_127.0.0.1.jpeg)
-  
-  - [Solution](https://qrcodechallengebyg87code.netlify.app/)
+
+- Solution URL: [Add solution URL here]
+- Live Site URL: [https://qrcodechallengebyg87code.netlify.app/]
 - [My process](#my-process)
   - Built with
       - Semantic HTML5 markup
